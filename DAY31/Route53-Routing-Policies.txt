@@ -1,0 +1,5 @@
+1. Simple RP
+2. GeoLocation RP
+3. Weighted RP
+4. Latenct RP
+5. FailOver RP
